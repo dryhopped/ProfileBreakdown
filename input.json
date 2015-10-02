@@ -1,0 +1,59 @@
+{
+    "options": [
+        {
+            "title": "iPhone",
+            "id": "option-1"
+        },
+        {
+            "title": "Android",
+            "id": "option-2"
+        },
+        {
+            "title": "Blackberry",
+            "id": "option-3"
+        },
+        {
+            "title": "Symbian",
+            "id": "option-4"
+        },
+        {
+            "title": "Other",
+            "id": "option-5"
+        }
+    ],
+    "data": [
+        {
+            "profile": {
+                "age": 26,
+                "gender": "Male",
+                "income": "income-1"
+            },
+            "response": [
+                "option-1"
+            ]
+        },
+        {
+            "profile": {
+                "age": 30,
+                "gender": "Female",
+                "income": "income-4",
+                "state": "CA"
+            },
+            "response": [
+                "option-1",
+                "option-5"
+            ]
+        },
+        {
+            "profile": {
+                "age": 26,
+                "gender": "Male",
+                "income": "income-1",
+                "state": "CA"
+            },
+            "response": [
+                "option-1"
+            ]
+        }
+    ]
+}
